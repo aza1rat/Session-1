@@ -1,0 +1,19 @@
+D:\Downloads\Task\OOO Sportivnye Tovary\OOO Sportivnye Tovary\bin\Debug\OOO Sportivnye Tovary.exe.config
+D:\Downloads\Task\OOO Sportivnye Tovary\OOO Sportivnye Tovary\bin\Debug\OOO Sportivnye Tovary.exe
+D:\Downloads\Task\OOO Sportivnye Tovary\OOO Sportivnye Tovary\bin\Debug\OOO Sportivnye Tovary.pdb
+D:\Downloads\Task\OOO Sportivnye Tovary\OOO Sportivnye Tovary\bin\Debug\EntityFramework.dll
+D:\Downloads\Task\OOO Sportivnye Tovary\OOO Sportivnye Tovary\bin\Debug\EntityFramework.SqlServer.dll
+D:\Downloads\Task\OOO Sportivnye Tovary\OOO Sportivnye Tovary\bin\Debug\EntityFramework.xml
+D:\Downloads\Task\OOO Sportivnye Tovary\OOO Sportivnye Tovary\bin\Debug\EntityFramework.SqlServer.xml
+D:\Downloads\Task\OOO Sportivnye Tovary\OOO Sportivnye Tovary\bin\Debug\ru\EntityFramework.resources.dll
+D:\Downloads\Task\OOO Sportivnye Tovary\OOO Sportivnye Tovary\obj\Debug\OOO Sportivnye Tovary.csproj.AssemblyReference.cache
+D:\Downloads\Task\OOO Sportivnye Tovary\OOO Sportivnye Tovary\obj\Debug\OOO Sportivnye Tovary.csproj.SuggestedBindingRedirects.cache
+D:\Downloads\Task\OOO Sportivnye Tovary\OOO Sportivnye Tovary\obj\Debug\OOO_Sportivnye_Tovary.FormAuthorization.resources
+D:\Downloads\Task\OOO Sportivnye Tovary\OOO Sportivnye Tovary\obj\Debug\OOO_Sportivnye_Tovary.Properties.Resources.resources
+D:\Downloads\Task\OOO Sportivnye Tovary\OOO Sportivnye Tovary\obj\Debug\OOO Sportivnye Tovary.csproj.GenerateResource.cache
+D:\Downloads\Task\OOO Sportivnye Tovary\OOO Sportivnye Tovary\obj\Debug\OOO Sportivnye Tovary.csproj.CoreCompileInputs.cache
+D:\Downloads\Task\OOO Sportivnye Tovary\OOO Sportivnye Tovary\obj\Debug\OOO Sportivnye Tovary.csproj.CopyComplete
+D:\Downloads\Task\OOO Sportivnye Tovary\OOO Sportivnye Tovary\obj\Debug\OOO Sportivnye Tovary.exe
+D:\Downloads\Task\OOO Sportivnye Tovary\OOO Sportivnye Tovary\obj\Debug\OOO Sportivnye Tovary.pdb
+D:\Downloads\Task\OOO Sportivnye Tovary\OOO Sportivnye Tovary\obj\Debug\OOO_Sportivnye_Tovary.FormCatalogue.resources
+D:\Downloads\Task\OOO Sportivnye Tovary\OOO Sportivnye Tovary\obj\Debug\OOO_Sportivnye_Tovary.FormTemplate.resources
